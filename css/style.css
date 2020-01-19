@@ -1,0 +1,79 @@
+.top_header{
+overflow: hidden;
+}
+.logo{
+background-color: burlywood;
+height: 70px;
+width: 32%;
+float: left;
+text-align: center;
+}
+.banner{
+background-color: cornflowerblue;
+height: 70px;
+width: 62%;
+float: right;
+text-align: center;
+}
+.header_bar{
+    background-color: crimson;
+    height: 70px;
+    text-align: center;
+   
+}
+.content{
+margin-top: 30px;
+}
+.left_block{
+height: 485px;
+background-color: yellowgreen;
+width: 20%;
+float: left;
+margin-top: 24px;
+text-align: center;
+}
+.right_block{
+height: 485px;
+background-color: tomato;
+width: 20%;
+float: right;
+margin-top: 24px;
+text-align: center;
+}
+.center_block{
+width: 50%;
+height: 350px;
+float: left;
+margin-left: 5%;
+
+
+}
+.center_center_blocks{
+height: 150px;
+background-color: darkturquoise;
+text-align: center;
+}
+.center_middle_blocks{
+    height: 150px;
+    margin-top: 20px;
+}
+.center_left_blocks{
+height: 150px;
+width: 50%;
+background-color: wheat;
+float: left;
+text-align: center;
+}
+.center_right_blocks{
+    height: 150px;
+    width: 50%;
+    background-color: goldenrod;
+    float: right;
+
+    text-align: center;
+}
+.module_contents{
+height: 150px;
+background-color: darkred;
+text-align: center;
+}
